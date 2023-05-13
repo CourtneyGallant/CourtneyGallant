@@ -1,4 +1,4 @@
-### Heyy! I'm Courtney👋
+### Heyy! I'm Courtney👋 &#x1F4BB;
 
 <!--
 **CourtneyGallant/CourtneyGallant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
