@@ -1,4 +1,4 @@
-### Heyy! I'm Courtney👋 :nail_care: &#x1F4BB;
+### Heyy! I'm Courtney👋 :nail_care::skin-tone-2: &#x1F4BB;
 
 <!--
 **CourtneyGallant/CourtneyGallant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
