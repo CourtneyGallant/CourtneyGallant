@@ -1,5 +1,7 @@
 ### Heyy! I'm Courtney 💅🏽 💻
 
+A data explorer weaving stories from numbers 📊 .Transforming raw data into actionable insights and turning curiosity into analytics magic ✨ Let's decode the world together!🌐
+
 <!--
 **CourtneyGallant/CourtneyGallant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
